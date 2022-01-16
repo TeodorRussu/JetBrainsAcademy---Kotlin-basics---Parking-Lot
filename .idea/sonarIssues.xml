@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.1.4.RELEASE/spring-messaging-5.1.4.RELEASE.jar!/org/springframework/messaging/handler/invocation/InvocableHandlerMethod.class">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Topics/Overview of the basic program/I like Kotlin/src/Main.kt">
           <value>
             <set />
@@ -19,6 +24,61 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/Topics/Overview of the basic program/Your name/src/Main.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Topics/Values and variables/Fix declarations/src/Main.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Topics/Values and variables/Swap/src/Main.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Topics/Values and variables/Very Big Number/src/Main.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Topics/Values and variables/val or var?/src/Main.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Publisher Store &amp; Legacy/cdp.publisher-backsync/src/main/java/com/bonial/cdp/publisherbacksync/exception/AkamaiCacheUpdateException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Publisher Store &amp; Legacy/cdp.publisher-backsync/src/main/java/com/bonial/cdp/publisherbacksync/mapper/PortalImageMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Publisher Store &amp; Legacy/cdp.publisher-backsync/src/main/java/com/bonial/cdp/publisherbacksync/messaging/PublisherDbChangesListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Publisher Store &amp; Legacy/cdp.publisher-backsync/src/main/java/com/bonial/cdp/publisherbacksync/utils/AkamaiUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Publisher Store &amp; Legacy/cdp.publisher-backsync/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Publisher Store &amp; Legacy/cdp.publisher-backsync/src/test/java/com/bonial/cdp/publisherbacksync/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Publisher Store &amp; Legacy/cdp.publisher-backsync/src/test/java/com/bonial/cdp/publisherbacksync/messaging/PublisherDbChangesListenerTest.java">
           <value>
             <set />
           </value>
